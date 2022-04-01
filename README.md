@@ -1,5 +1,5 @@
 # Precalculus-LUPI-Game
-**CHS Precalculus Period 9 Lowest Unique Possible Integer (LUPI) Game Analysis and Results**
+**CHS Precalculus Period 8 Lowest Unique Possible Integer (LUPI) Game Analysis and Results**
 
 **Summary:**
 
