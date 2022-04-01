@@ -1,9 +1,9 @@
 # Precalculus-LUPI-Game
-**CHS Precalculus Period 9 Lowest Unique Possible Integer (LUPI) Game Analysis and Results**
+**CHS Precalculus Period 8 Lowest Unique Possible Integer (LUPI) Game Analysis and Results**
 
 **Summary:**
 
-Within this repository, you will find the results of playing the Lowest Unique Positive Integer Game (LUPI) over the course of time, and the corresponding time series analysis, and the building of an ARIMA model (autoregressive integrated moving average) for the purposes of predicting/forecasting future trends and values.
+Within this repository, you will find the results of playing the Lowest Unique Positive Integer Game (LUPI) over the course of time, and the corresponding time series analysis, figures, and the building of an ARIMA model (autoregressive integrated moving average) for the purposes of predicting/forecasting future trends and values.
 
 **Time Series Analysis Conclusions:**
 
